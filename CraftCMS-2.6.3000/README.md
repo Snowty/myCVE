@@ -15,7 +15,7 @@ https://demo.craftcms.com/EDuTQUl40s/s/assets/site/payload_news-link-1-image.php
 ![](./1_upload.png)
 
 3.Upload one picture to see how GD function reshape the picture. I just download the "news-link-1-image.jpg" which is already in the list.
-![](./1_download.png)
+![](./1_dowload.png)
 
 4.Insert the `<?php phpinfo();?>` into the pic by using "jpg_payload.php"
 
@@ -27,7 +27,7 @@ https://demo.craftcms.com/EDuTQUl40s/s/assets/site/payload_news-link-1-image.php
  
  ![](./2_replace.png)
  
- We choose the "Replace it".
+  We choose the "Replace it".
  
  6.Use burp to change the filename:
  
