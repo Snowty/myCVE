@@ -15,6 +15,7 @@ https://demo.craftcms.com/EDuTQUl40s/s/assets/site/payload_news-link-1-image.php
 ![](./1_upload.png)
 
 3.Upload one picture to see how GD function reshape the picture. I just download the "news-link-1-image.jpg" which is already in the list.
+![](./1_download.png)
 
 4.Insert the `<?php phpinfo();?>` into the pic by using "jpg_payload.php"
 
@@ -35,3 +36,6 @@ https://demo.craftcms.com/EDuTQUl40s/s/assets/site/payload_news-link-1-image.php
  7.Then view the php file:
  ![](./4_poc.png) 
   
+Reference:
+http://0day5.com/archives/4122/
+https://xianzhi.aliyun.com/forum/topic/416/
