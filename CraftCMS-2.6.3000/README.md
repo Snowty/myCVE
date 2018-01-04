@@ -3,8 +3,6 @@ Get your very own Craft demo site in https://demo.craftcms.com/ (The site will a
 
 My poc site : 
 
-https://demo.craftcms.com/EDuTQUl40s/s/assets/site/payload_news-link-1-image.php
-
 ![](./4_poc.png) 
 
 # PoC
