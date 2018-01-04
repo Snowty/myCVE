@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-#
-
-https://demo.craftcms.com/EDuTQUl40s/s/assets/site/payload_news-link-1-image.php
-
-![](./4_poc.png) 
-=======
 # Prepare
 Get your very own Craft demo site in https://demo.craftcms.com/ (The site will automatically expire in 48 hours) or build local.
 
@@ -48,4 +41,4 @@ https://demo.craftcms.com/EDuTQUl40s/s/assets/site/payload_news-link-1-image.php
 http://0day5.com/archives/4122/
 
 https://xianzhi.aliyun.com/forum/topic/416/
->>>>>>> 7bb84d793af4331e918a0c58d319d5580b660fa4
+
